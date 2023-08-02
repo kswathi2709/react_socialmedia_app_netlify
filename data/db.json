@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "August 02, 2023 6:22:26 PM",
+      "body": "Made an audio"
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "datetime": "July 02,2021 11:17:36 AM",
+      "body": "Learnt react"
+    },
+    {
+      "id": 3,
+      "title": "My Third Post",
+      "datetime": "August 02, 2023 3:00:42 PM",
+      "body": "Read Python"
+    },
+    {
+      "id": 5,
+      "title": "My 5th post",
+      "datetime": "August 02, 2023 5:59:51 PM",
+      "body": "Hello all"
+    }
+  ]
+}
